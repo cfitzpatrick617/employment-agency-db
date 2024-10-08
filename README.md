@@ -22,4 +22,6 @@ Data dictionary for the database.
 
 ### [connector.py](connector.py)
 
-...
+Python script to connect to the database, see all jobs closing this week and insert a new job.
+
+_For security reasons, this script will NOT work._
